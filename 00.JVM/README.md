@@ -1,5 +1,8 @@
 
 
+1. 自定义一个 `Classloader`，加载一个 `Hello.xlass` 文件，执行 `hello` 方法
+
+
 
 从 `Classloader` 到模块化，动态加载的插件机制:
 
